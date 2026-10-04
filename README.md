@@ -1,1 +1,1 @@
-# Bringing-Light
+# Bridging Light\n\nProject website for the **Bridging Light / DΩP Open Bridge Initiative** by De-Omega-Point.\n\nThe hero uses a native SVG animation that loops continuously without video playback dependencies.\n\n**Human-Value-Centric is who we are and what we do.**\n
